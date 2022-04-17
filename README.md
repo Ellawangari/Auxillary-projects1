@@ -1,6 +1,6 @@
 # AUX PROJECT 1: SHELL SCRIPTING
 
-In this project , I created a Shell script to onboard 20 new Linux users onto a server.The shell script read the names.csv file which cointained the list of 20 users.
+In this project , I created a Shell script to onboard 20 new Linux users onto a server.The shell script read the names.csv file which contained the list of 20 users.
 
 STEPS
 
